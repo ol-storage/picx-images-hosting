@@ -1,9 +1,8 @@
+# @ [PRML.top](https://prml.top)
 
-# Welcome to use PicX
+Pattern Recognition & Machine Learning will NOT be high-tech any more, as the LLM is improving.  
+AI will be part of our life.  
+Just like computers, they will come, though slowly, but still fast enough to surprise us!
 
-[PicX](https://github.com/XPoet/picx) is a simple and powerful image hosting tool. It supports image hosting services via GitHub repository.
 
-PicX is completely open source, and you can use it for free.
-
-If you like it, please give it a star on [GitHub](https://github.com/XPoet/picx).
-        
+Supported by: [GitHub](https://github.com/XPoet/picx).
